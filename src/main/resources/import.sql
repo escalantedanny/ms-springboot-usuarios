@@ -1,0 +1,12 @@
+INSERT INTO usuarios (rut, name , email) VALUES ('265654','Ezequiel Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
+INSERT INTO usuarios (rut, name , email) VALUES ('25752752','Santiago Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
+INSERT INTO usuarios (rut, name , email) VALUES ('27772','Daniel Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
+INSERT INTO usuarios (rut, name , email) VALUES ('272277','Maria Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
+INSERT INTO usuarios (rut, name , email) VALUES ('2252','Jonaz Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
+INSERT INTO usuarios (rut, name , email) VALUES ('22257','runas Escalante', 'danny.ezequiel@gmail.com');
+INSERT INTO usuarios (rut, application, name, email, phone ) VALUES ('264944635','Giro','escalantedanny','danny.ezequiel@gmail.com','98131764');
